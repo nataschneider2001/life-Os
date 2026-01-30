@@ -1,0 +1,8 @@
+{
+  "name": "Copy of LifeOS - Integrated Personal Growth & Finance",
+  "description": "A comprehensive personal management system combining habit tracking, financial management, daily planning, and personalized AI coaching to optimize your life.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
